@@ -1,0 +1,2 @@
+FILECREADO=c://prova//pepe.txt
+FILERECORRER=C://xampp//htdocs
